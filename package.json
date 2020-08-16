@@ -1,0 +1,23 @@
+{
+  "name": "head_first_data_structure_javascript",
+  "version": "1.0.0",
+  "description": "data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peach-trees/head_first_data_structure_javascript.git"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "xuming.js",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/peach-trees/head_first_data_structure_javascript/issues"
+  },
+  "homepage": "https://github.com/peach-trees/head_first_data_structure_javascript#readme"
+}
